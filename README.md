@@ -6,7 +6,7 @@ Please save this files in pycricbuzz3 folder of modules in python3.
 
 Usage:
 
-from pycricbuzz3 import Cricbuzz
-c=Cricbuzz()
-c.start()
+<code>from pycricbuzz3 import Cricbuzz<code>
+<code>c=Cricbuzz()</code>
+<code>c.start()</code>
 
